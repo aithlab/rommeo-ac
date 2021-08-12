@@ -1,7 +1,9 @@
 # ROMMEO-AC
 
 This repository is the implementation of the paper, [A Regularized Opponent Model with Maximum Entropy Objective](https://arxiv.org/abs/1905.08087).  
-I transformed the TensorFlow code which is provided by the authors to PyTorch.  
+In the paper, the experiments were conducted on two environments, Iterated Matrix Games and Differential Games.  
+However, in this implementation, I only implemented for Differential Games.  
+I referred to the original authors' codes written in TensorFlow and transformed the TensorFlow to PyTorch.  
 
 For training and getting results:  
 `python main.py`
