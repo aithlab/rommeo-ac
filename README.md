@@ -9,4 +9,4 @@ For training and getting results:
 Results:  
 | Return | Policy |
 |---|---|
-| <img src='./figures/Rewards.png' width="500" height="250"> | <img src='./figures/policy.png' width="500" height="250"> |
+| <img src='./figures/Rewards.png' width="100%" height="100%"> | <img src='./figures/policy.png' width="100%" height="100%"> |
