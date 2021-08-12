@@ -1,4 +1,4 @@
-# rommeo-ac
+# ROMMEO-AC
 
 This repository is the implementation of the paper, [A Regularized Opponent Model with Maximum Entropy Objective](https://arxiv.org/abs/1905.08087).  
 I also refered [the author's repository](https://github.com/rommeoijcai2019/rommeo)
