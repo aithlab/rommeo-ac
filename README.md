@@ -9,4 +9,4 @@ For training and getting results:
 Results:  
 | Return | Policy |
 |---|---|
-| ![Return](./figures/Rewards.png){: width="50"}{: .center} | ![Policy](./figures/policy.png){: width="50"}{: .center} |
+| ![Return](./figures/Rewards.png) | ![Policy](./figures/policy.png) |
