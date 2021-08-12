@@ -100,7 +100,8 @@ for episode in range(n_episodes):
       agent.optimizer_prior.zero_grad()
       loss_prior.backward()
       agent.optimizer_prior.step()
-
+      
+      #Policy networks should be updated before than Q function.
       agent.optimizer_policy.zero_grad()
       loss_policy.backward()
       agent.optimizer_policy.step()
